@@ -1,0 +1,15 @@
+{
+    "name": "openai-teams-bot",
+    "version": "0.0.1",
+    "description": "",
+    "author": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "@microsoft/teamsfx-cli": "1.*",
+        "botbuilder": "^4.18.0",
+        "@microsoft/microsoft-graph-client": "^3.0.4"
+    },
+    "license": "MIT"
+}
